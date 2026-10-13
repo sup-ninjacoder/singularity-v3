@@ -151,6 +151,7 @@ export const labs: Lab[] = [
       { name: "Tanishq Yadav", year: "Member", linkedin: "https://www.linkedin.com/in/tanishq-yadav-a5367636a/" },
       { name: "Yugal Sunil Patil", year: "Member" },
       { name: "Zen", year: "Member", linkedin: "https://www.linkedin.com/in/zen-needs-a-job-6aa899305/" }
+      { name: "Amrit Sagar Sahu", year: "Member", github: "https://github.com/sup-ninjacoder", linkedin: "https://www.linkedin.com/in/amrit-sagar-sahu-176531395" }
     ]
   },
   {
